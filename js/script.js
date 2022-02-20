@@ -1,3 +1,3 @@
-function show() {
-	document.getElementById("side-menu").classList.toggle("show");
+function show(){
+    document.getElementById("side-menu").classList.toggle("shows");
 }
